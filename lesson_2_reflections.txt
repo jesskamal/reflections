@@ -15,6 +15,7 @@ When I want to try out different versions of the same code - like for an experim
 It will also help when you are working on developing code, but not yet production quality work. Good for collaborating publicly or yourself.
 
 How do the diagrams help you visualize the branch structure?
+I can see the order of the commits across different branches, I can see what commits each branch has in common, I can see which commits do not have a branch, and I can see all of the branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
