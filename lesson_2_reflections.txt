@@ -19,6 +19,7 @@ I can see the order of the commits across different branches, I can see what com
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+When we merge two branches, we get one file that includes the changes from both files. Any lines of code that were added in the branch, will be added to the new file. Any lines of code that were removed, will be removed. We represent it in the diagram so we can see all the commits that will be included in the new merged branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
