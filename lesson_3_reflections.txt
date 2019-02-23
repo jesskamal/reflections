@@ -6,7 +6,7 @@ When you are collaborating with others who are also working on the same files. A
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+If you are collaborating with others, you don't have to check what has been changed manually, if you pull changes, you automatically have the most up-to-date code. Also, it seems easier logistically to manage locally and push changes, rather than having to use the site.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
