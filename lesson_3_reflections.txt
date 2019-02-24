@@ -16,7 +16,7 @@ Clones are used to clone either a local or a remote repository. Forks are used t
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+If you are working offline, you can still see the status of the remote directory and track changes. You don't have to refer to the remote copy as frequently when others are making continual updates, you can just see the changes at the time you need them.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
