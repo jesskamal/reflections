@@ -21,7 +21,7 @@ If you are working offline, you can still see the status of the remote directory
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I suppose I would have to either email or slack the files back and forth, while saving the different versions of the file and commenting the changes, or I would have to use an online collaboration tool like Google Docs. It would be easier to make changes and identify them quickly. It would be more difficult to keep track of many different changes among many different collaborators.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
