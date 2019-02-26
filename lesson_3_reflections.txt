@@ -26,4 +26,4 @@ I suppose I would have to either email or slack the files back and forth, while 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+It makes sense to make changes in a separate branch in cases where you are testing out different code for different cases, or if you are collaborating remotely. When you make changes to a separate branch, multiple people can do the same, and review and approve the changes first, without affecting changes that have been made otherwise to the master branch. However making changes directly in master seems much easier, with less steps to follow, but more room for conflict with multiple collaborators.
